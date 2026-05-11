@@ -93,10 +93,10 @@ cd Pentesting-Resources
 cd sql-injection
 cat README.md
 
---
+---
 
 ## Contact
 
-GitHub: @mohamed-algabry
-LinkedIn: Mohamed Algabry
-X: @Jabry_00
+GitHub: @mohamed-algabry .
+LinkedIn: Mohamed Algabry .
+X: @Jabry_00 .
