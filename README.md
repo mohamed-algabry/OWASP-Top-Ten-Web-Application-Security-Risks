@@ -28,7 +28,7 @@ Every folder is named after a specific vulnerability or topic (following clean n
 ---
 
 ## Repository Structure
-
+```
 Pentesting-Resources/
 ├── broken-access-control/
 ├── broken-authentication/
@@ -54,7 +54,7 @@ Pentesting-Resources/
 ├── privilege-escalation/
 ├── active-directory/
 └── resources/                ← Cheat sheets & references
-
+```
 
 Each folder contains its own `README.md` with:
 - Detailed explanation
@@ -83,10 +83,11 @@ Each folder contains its own `README.md` with:
 
 ## How to Use
 
-```bash```
 # Clone the repo
+```bash
 git clone https://github.com/mohamed-algabry/Pentesting-Resources.git
 cd Pentesting-Resources
+```
 
 # Go to any topic
 cd sql-injection
