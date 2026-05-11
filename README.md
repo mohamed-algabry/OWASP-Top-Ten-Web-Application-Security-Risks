@@ -64,20 +64,20 @@ Each folder contains its own `README.md` with:
 
 ---
 
-## OWASP Top 10 Coverage
+## OWASP Top 10 2025 Coverage
 
-| #  | Vulnerability                              | Folder                              | Status      |
-|----|--------------------------------------------|-------------------------------------|-------------|
-| 1  | Broken Access Control                      | `broken-access-control`             | ✅ Done     |
-| 2  | Cryptographic Failures                     | `broken-authentication`             | ✅ Done     |
-| 3  | Injection                                  | `sql-injection`, `command-injection`| In Progress |
-| 4  | Insecure Design                            | `business-logic-vulnerabilities`    | Planned     |
-| 5  | Security Misconfiguration                  | `information-disclosure`            | ✅ Done     |
-| 6  | Vulnerable and Outdated Components         | `api-pentesting`                    | Planned     |
-| 7  | Identification and Authentication Failures | `broken-authentication`             | ✅ Done     |
-| 8  | Software and Data Integrity Failures       | `jwt-attacks`                       | ✅ Done     |
-| 9  | Security Logging and Monitoring Failures   | `resources/`                        | Planned     |
-| 10 | Server-Side Request Forgery (SSRF)         | `ssrf`                              | ✅ Done     |
+| #  | Vulnerability                                      | Folder                              | Status         |
+|----|----------------------------------------------------|-------------------------------------|----------------|
+| 1  | Broken Access Control                              | `broken-access-control`             | ✅ Done        |
+| 2  | Security Misconfiguration                          | `security-misconfiguration`         | In Progress    |
+| 3  | Software Supply Chain Failures                     | `supply-chain-attacks`              | Planned        |
+| 4  | Cryptographic Failures                             | `cryptographic-failures`            | ✅ Done        |
+| 5  | Injection                                          | `sql-injection`, `command-injection`| In Progress    |
+| 6  | Insecure Design                                    | `business-logic-vulnerabilities`    | Planned        |
+| 7  | Identification and Authentication Failures         | `broken-authentication`             | ✅ Done        |
+| 8  | Software and Data Integrity Failures               | `jwt-attacks`                       | ✅ Done        |
+| 9  | Security Logging and Monitoring Failures           | `resources/`                        | Planned        |
+| 10 | Mishandling of Exceptional Conditions / SSRF       | `ssrf`                              | ✅ Done        |
 
 ---
 
