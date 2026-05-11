@@ -97,6 +97,12 @@ cat README.md
 
 ## Contact
 
-GitHub: @mohamed-algabry .
-LinkedIn: Mohamed Algabry .
-X: @Jabry_00 .
+| Platform   | Link |
+|------------|------|
+| **GitHub**   | [@mohamed-algabry](https://github.com/mohamed-algabry) |
+| **LinkedIn** | [Mohamed Algabry](https://www.linkedin.com/in/mohamed-algabry) |
+| **X**        | [@Jabry_00](https://x.com/Jabry_00) |
+
+---
+
+**Feel free to reach out!** 🚀
